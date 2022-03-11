@@ -1,0 +1,15 @@
+body {
+    background-image: url(images/pattern-background-desktop.svg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.summmary-card {
+    width: 35%;
+}
+
+.illustration-hero {
+    width: 100%;
+}
